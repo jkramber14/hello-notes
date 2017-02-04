@@ -9,6 +9,7 @@ dependencies:
   js: any
   sass: any
   image: any
+  simple_streams: any
 transformers:
 - $dart2js:
     minify: true
